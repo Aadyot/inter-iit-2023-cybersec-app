@@ -1,1 +1,2 @@
-Your solution for richboy goes here.
+run the treasure file
+
