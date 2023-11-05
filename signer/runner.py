@@ -15,11 +15,13 @@ sgn = Signer()
 # There should be no other print statements in the program and you cannot
 # hardcode this string to be printed.
 
+
+
+
 def str2byte(s):
     return s.encode("utf-8").hex()
 
 #InterIIT-2023 is 13 chars, so 13 bytes 
-
 
 print(sgn.execute("sign", str2byte("InterIIT-2023")))
 

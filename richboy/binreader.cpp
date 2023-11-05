@@ -16,7 +16,7 @@ int main() {
     }
 
     for(auto c : v){
-        //if(c<32 || c>=127) continue;
+        if(c<32 || c>=127) continue;
         os<<c;
     }
 }
