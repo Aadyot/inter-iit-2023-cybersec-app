@@ -1,1 +1,1 @@
-
+tried some approaches to do a mix and match attack on the chained block cipher.
